@@ -17,6 +17,7 @@
     "@stripe/react-stripe-js": "^2.2.0",
     "@stripe/stripe-js": "^2.1.2",
     "better-sqlite3": "8.5.0",
+    "pg": "^8.11.3",
     "stripe": "^13.5.0"
   },
   "author": {
